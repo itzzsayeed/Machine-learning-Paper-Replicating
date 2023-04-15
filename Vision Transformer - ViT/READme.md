@@ -1,2 +1,0 @@
-ViT - Vision Transformer is the first research paper where the Transformer model has been applied for computer vision tasks which come through the paper titled " An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale". This model used only the Encoder module of the transformer. To process the data the images are divided into small patches and passed through the encoder with positional encoding information and the output of the encoder layer is passed through the MLP layer. 
-For more details, here is the paper link : https://arxiv.org/abs/2010.11929
